@@ -46,11 +46,3 @@ Android CamSwap 是一个基于 Xposed 框架的 Android 虚拟摄像头模块�
 ```
 配置文件为：`cs_config.json`
 
-## 免责声明
-
-本项目仅供安全研究、软件测试与教育交流用途。严禁将本项目用于任何非法活动（包括但不限于人脸识别绕过、身份欺诈等违法违规行为）。因使用本项目所产生的一切后果由使用者自行承担。
-
-## 致谢与许可证
-
-- 灵感来源于 [android_virtual_cam](https://github.com/w2016561536/android_virtual_cam)。
-- 本项目基于 [GPL-3.0 许可证](LICENSE) 开源。
