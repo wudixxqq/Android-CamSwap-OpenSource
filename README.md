@@ -46,7 +46,4 @@ Configuration and media files are located at:
 ```
 Configuration file: `cs_config.json`
 
-## Disclaimer
-
-This project is intended solely for security research, software testing, and educational purposes. Do not use this project for any illegal or unauthorized activities (including but not limited to biometric authentication bypass or identity fraud). Users are solely responsible for compliance with applicable laws and regulations.
 
