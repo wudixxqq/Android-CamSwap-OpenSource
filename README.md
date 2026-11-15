@@ -50,7 +50,3 @@ Configuration file: `cs_config.json`
 
 This project is intended solely for security research, software testing, and educational purposes. Do not use this project for any illegal or unauthorized activities (including but not limited to biometric authentication bypass or identity fraud). Users are solely responsible for compliance with applicable laws and regulations.
 
-## Credits & License
-
-- Inspired by [android_virtual_cam](https://github.com/w2016561536/android_virtual_cam).
-- Licensed under the [GPL-3.0 License](LICENSE).
